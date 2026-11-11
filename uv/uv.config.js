@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'https://nebulaproxy.io',
+    bare: 'myquantumproxy.vercel.app',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
